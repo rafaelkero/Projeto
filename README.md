@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+Veja o projeto funcional [NESTE LINK](https://rafaelkero.github.io/agregador/).
+
 ## 🔖 Layout
 
 O layout do projeto foi feito seguindo como padrão o design criado pela [Ilana Mallak](https://linkedin.com/in/ilanamallak) da [Rocketseat](https://rocketseat.com.br), e você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
